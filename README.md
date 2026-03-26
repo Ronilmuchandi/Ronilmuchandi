@@ -25,66 +25,76 @@ I'm a Master's student in Data Science and Analytics at the University of Missou
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%234282B4.svg?style=for-the-badge&logo=XGBoost&logoColor=white)
 
 ### Data / Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23DF1E1E.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E069AD?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2300a8e8.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-![Ronil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronilmuchandi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6be09e&text_color=ffffff)
+![Ronil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronilmuchandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6be09e&text_color=ffffff&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilmuchandi&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=6be09e&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilmuchandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6be09e&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ronilmuchandi&theme=dark&hide_border=false&background=0d1117)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ronilmuchandi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronilmuchandi&theme=radical&hide_border=true&background=0d1117)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Supply Chain Control Tower**  
-  Databricks + Spark pipeline over 180k+ logistics records with Power BI dashboards for late‑delivery analysis.
-
-- **Global Debt Crisis – IMF Data Story**  
-  Debt trends for 190 countries (2000–2024) with visual narratives on fiscal risk.
-
-- **Lexis Legal PDF Analysis**  
-  End‑to‑end pipeline for legal document ingestion, text extraction, and RAG‑based analysis.
-
-- **EV Charging Accessibility**  
-  PCA + clustering + classification to identify underserved EV charging regions.
-
-- **Remote Work Economics (U.S. Cities)**  
-  Interactive indices mapping remote‑job growth against cost of living and migration.
-
----
-
-## 💼 Experience
-
-- **Graduate Engineer Trainee @ HCL Technologies** (2023–2024)  
-  SQL + Power BI dashboards for HR and operations.
+<table>
+<tr>
+<td align="center">
+<div>
+<img src="https://img.shields.io/badge/Supply_Chain_Control_Tower-Databricks-blue?style=for-the-badge&logo=databricks&logoColor=white" width="100%"/>
+<br>
+**Supply Chain Control Tower**<br>
+Databricks + Spark pipeline (180k+ records)<br>
+Power BI dashboards for late‑delivery analysis
+</div>
+</td>
+<td align="center">
+<div>
+<img src="https://img.shields.io/badge/Global_Debt_Crisis-IMF-orange?style=for-the-badge&logo=imf&logoColor=white" width="100%"/>
+<br>
+**Global Debt Crisis**<br>
+190 countries (2000–2024)<br>
+Visual debt risk analysis
+</div>
+</td>
+</tr>
+<tr>
+<td align="center">
+<div>
+<img src="https://img.shields.io/badge/Lexis_Legal_PDF-OpenAI-green?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
+<br>
+**Lexis Legal PDF Analysis**<br>
+Legal doc ingestion + RAG<br>
+Text extraction & analysis pipeline
+</div>
+</td>
+<td align="center">
+<div>
+<img src="https://img.shields.io/badge/EV_Charging-Accessibility-yellow?style=for-the-badge&logo=electric-vehicle&logoColor=black" width="100%"/>
+<br>
+**EV Charging Accessibility**<br>
+PCA + clustering + classification<br>
+Underserved region detection
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,7 +102,5 @@ I'm a Master's student in Data Science and Analytics at the University of Missou
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ronil-muchandi-892602187)  
 - 📫 Email: ronilmizzou@gmail.com
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Ronilmuchandi&icon=0&color=0)](https://visitcount.itsvg.in)
