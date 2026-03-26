@@ -1,10 +1,6 @@
-<div align="center">
-
 # 💫 About Me
 
 I'm a Master's student in Data Science and Analytics at the University of Missouri, focused on building end‑to‑end data and ML solutions that actually drive decisions. I like taking messy, high‑volume data and turning it into clear stories and products.
-
-</div>
 
 ---
 
@@ -47,53 +43,53 @@ I'm a Master's student in Data Science and Analytics at the University of Missou
 
 # 📊 GitHub Stats
 
-![Ronil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronilmuchandi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&include_all_commits=true&count_private=true)
+![Ronil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronilmuchandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6be09e&text_color=ffffff&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilmuchandi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilmuchandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6be09e&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ronilmuchandi&theme=dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronilmuchandi&theme=radical&hide_border=true&background=0d1117)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table>
 <tr>
 <td align="center">
 <div>
-<img src="https://img.shields.io/badge/Supply_Chain-%23FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Supply_Chain_Control_Tower-Databricks-blue?style=for-the-badge&logo=databricks&logoColor=white" width="100%"/>
 <br>
 **Supply Chain Control Tower**<br>
-Databricks + Spark (180k+ records)<br>
-Power BI late‑delivery analysis
+Databricks + Spark pipeline (180k+ records)<br>
+Power BI dashboards for late‑delivery analysis
 </div>
 </td>
 <td align="center">
 <div>
-<img src="https://img.shields.io/badge/Global_Debt-%234CAF50?style=for-the-badge&logo=imf&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Global_Debt_Crisis-IMF-orange?style=for-the-badge&logo=imf&logoColor=white" width="100%"/>
 <br>
 **Global Debt Crisis**<br>
 190 countries (2000–2024)<br>
-IMF fiscal risk visualization
+Visual debt risk analysis
 </div>
 </td>
 </tr>
 <tr>
 <td align="center">
 <div>
-<img src="https://img.shields.io/badge/Lexis_Legal-%239C27B0?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Lexis_Legal_PDF-OpenAI-green?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
 <br>
-**Lexis Legal PDF**<br>
-RAG + text extraction<br>
-Legal document analysis
+**Lexis Legal PDF Analysis**<br>
+Legal doc ingestion + RAG<br>
+Text extraction & analysis pipeline
 </div>
 </td>
 <td align="center">
 <div>
-<img src="https://img.shields.io/badge/EV_Charging-%23009688?style=for-the-badge&logo=electric-vehicle&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/EV_Charging-Accessibility-yellow?style=for-the-badge&logo=electric-vehicle&logoColor=black" width="100%"/>
 <br>
-**EV Accessibility**<br>
-PCA + clustering<br>
+**EV Charging Accessibility**<br>
+PCA + clustering + classification<br>
 Underserved region detection
 </div>
 </td>
@@ -104,11 +100,7 @@ Underserved region detection
 
 ## 🌐 Connect
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronil-muchandi-892602187)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronilmizzou@gmail.com)
-</div>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ronil-muchandi-892602187)  
+- 📫 Email: ronilmizzou@gmail.com
 
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=Ronilmuchandi&icon=0&color=6)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=Ronilmuchandi&icon=0&color=0)](https://visitcount.itsvg.in)
